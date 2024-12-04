@@ -1,0 +1,1 @@
+All the MySql commads to create tables related to the DBMS PROJECT is Written here.
